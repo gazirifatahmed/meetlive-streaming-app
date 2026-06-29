@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "224449060454",
+    "project_id": "meetlife-8bdb1",
+    "storage_bucket": "meetlife-8bdb1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224449060454:android:69dd70c75cb3e471f357a7",
+        "android_client_info": {
+          "package_name": "com.meetliveappspro.meetlive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224449060454-4fiqb20a0kdm943v5116p942cpb2tv5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meetliveappspro.meetlive",
+            "certificate_hash": "2ce8efdc8cd0e01477ea36f90886229d9cec00c4"
+          }
+        },
+        {
+          "client_id": "224449060454-f8bc2edbsfmpb84dich6s3oed1uqqte0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYvkby8O_qavFGvOjQauTSethFyQP2QLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224449060454-f8bc2edbsfmpb84dich6s3oed1uqqte0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
